@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    margin-top: 50px;
+    border: 2px solid red;
+    width: 150px;
+    height: 100px;
+}
+.count{
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 30px;
+}
