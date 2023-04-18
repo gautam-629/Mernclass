@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+   margin-top: 50px;
+   display: flex;
+   justify-content: space-around;
+}
+.editForm{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+1.rest api
+2.make folder
+ ->component: table and form
+3.page/home: use table and form
+4.form
+5.table:fetch data
+6.delete 
+7.update
+8.browser Router

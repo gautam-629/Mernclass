@@ -1,0 +1,11 @@
+1.repeat
+2.about mongodb
+2.routes,controller,db,=>connect
+3.modules=>make models
+4.controller: first login and register and then (Services) jwt token
+5.route
+6.middleware
+
+
+-----------------
+React app=
