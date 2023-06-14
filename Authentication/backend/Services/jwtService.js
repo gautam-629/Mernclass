@@ -8,5 +8,4 @@ class JwtService {
         return jwt.verify(token, secret);
     }
 }
-
 module.exports= JwtService;

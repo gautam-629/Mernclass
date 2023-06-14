@@ -2,11 +2,11 @@ const express=require("express");
 const router=require('./routes/web');
 const ConnectDb=require("./db/connectdb");
 const parser=require('cookie-parser');
-const cors=require('cors')
+const cors=require('cors');
 let app=express()
 
 //databse
-ConnectDb('mongodb://localhost:27017');
+ConnectDb('mongodb://0.0.0.0:27017/');
 
 //set cors
 app.use(cors())
